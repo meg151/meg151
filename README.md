@@ -1,4 +1,5 @@
 ## Hello, I'm Gyeongeun Min@meg151🌻
+find me here @notion @Tstory 
 
 
 ### Backend Developer
