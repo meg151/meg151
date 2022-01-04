@@ -1,26 +1,15 @@
 # Gyeongeun Min@meg151🌻
 
-``` node
-#!/usr/bin/env node
+## Backend Developer
 
-const Developer = require('../Developer')
+ * Server Software Developer in Beauty-Tech industry 
 
-class SoftwareDeveloper extends Developer {
-  constructor() {
-    this.name = 'meg'
-    this.role = 'Developer'
-    this.location = 'Seoul'
-    this.hobbies = ['watching youtube', 'Reading']
-  }
-  
-  sayHi() {
-    console.log('Hello, Thanks for visiting my github!')
-  }
-}
+## Interest
 
-const me = new SoftwareDeveloper()
-me.sayHi()
-```
+ * Google Colud Platform
+ * AWS 
+
+
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
