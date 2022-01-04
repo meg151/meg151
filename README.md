@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**meg151/meg151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<pre><code>
- !/usr/bin/env node
+# !/usr/bin/env node
 
 const Developer = require('../Developer')
 
@@ -23,7 +19,10 @@ class SoftwareDeveloper extends Developer {
 
 const me = new SoftwareDeveloper()
 me.sayHi()
-<pre><code>
+
+
+<!--
+**meg151/meg151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   
 
