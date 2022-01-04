@@ -1,8 +1,4 @@
-https://capsule-render.vercel.app/api?
-![header](https://Gyeongeun Min@meg151🌻.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://Gyeongeun Min@meg151🌻.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines='Hello, there'+;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <!--
