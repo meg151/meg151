@@ -1,5 +1,6 @@
-![header](https://Gyeongeun Min@meg151🌻.vercel.app/api?type=soft&color=1&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://Gyeongeun Min@meg151🌻.vercel.app/api?type=soft&color=1&height=300&section=header&text=capsule%20render&fontSize=90" />
+https://capsule-render.vercel.app/api?
+![header](https://Gyeongeun Min@meg151🌻.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://Gyeongeun Min@meg151🌻.vercel.app/api?type=soft&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 
 
