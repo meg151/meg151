@@ -1,5 +1,4 @@
-## Hello, I'm Gyeongeun Min@meg151🌻
-find me here @gitbhub.meg151
+## Hello, I'm @meg151🌻
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
