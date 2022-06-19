@@ -1,18 +1,5 @@
 ## Hello, I'm Gyeongeun Min@meg151🌻
-find me here @notion @Tstory 
-
-
-### Backend Developer
-
- * Server Software Developer in Beauty-Tech industry 
-
-
-
-### Interest
-
- * Google Colud Platform
- * AWS 
-
+find me here @gitbhub.meg151
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
